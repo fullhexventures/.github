@@ -1,6 +1,1 @@
-[Full Hex Ventures](https://www.fullhex.com/) is a Software & Hardware design firm founded by Chris Dalke.
-
-We work in a variety of areas:
-- Self-contained Software-as-a-Service products
-- Software interacting with the physical world
-- Interactive art
+[Full Hex Ventures](https://www.fullhex.com/) is Chris Dalke's product engineering consulting firm. We build software & hardware products, with a focus on maritime-related applications.
